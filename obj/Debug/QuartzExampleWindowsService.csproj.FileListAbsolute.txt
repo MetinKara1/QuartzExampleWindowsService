@@ -1,0 +1,14 @@
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\QuartzExampleWindowsService.exe.config
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\QuartzExampleWindowsService.exe
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\QuartzExampleWindowsService.pdb
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Common.Logging.dll
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Quartz.dll
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Common.Logging.pdb
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Common.Logging.xml
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Quartz.pdb
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\bin\Debug\Quartz.xml
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\obj\Debug\QuartzExampleWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\obj\Debug\QuartzExampleWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\obj\Debug\QuartzExampleWindowsService.csproj.CopyComplete
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\obj\Debug\QuartzExampleWindowsService.exe
+C:\Users\nmeti\source\repos\QuartzExampleWindowsService\QuartzExampleWindowsService\obj\Debug\QuartzExampleWindowsService.pdb
